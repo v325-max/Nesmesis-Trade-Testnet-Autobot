@@ -1,7 +1,4 @@
 # 🚀 Nesmesis Trade Testnet Autobot
-
-Bot automation untuk menjalankan aktivitas trading di testnet secara otomatis.
-
 ---
 
 ## ⚙️ Requirements
@@ -9,7 +6,7 @@ Bot automation untuk menjalankan aktivitas trading di testnet secara otomatis.
 Pastikan sudah install:
 
 - Node.js (v16 / v18 recommended)
-- npm atau yarn
+- npm 
 - Git
 
 ---
