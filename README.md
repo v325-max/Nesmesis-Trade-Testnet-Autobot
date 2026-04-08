@@ -3,7 +3,7 @@
 
 ## ⚙️ Requirements
 
-Pastikan sudah install:
+ install:
 
 - Node.js (v16 / v18 recommended)
 - npm 
