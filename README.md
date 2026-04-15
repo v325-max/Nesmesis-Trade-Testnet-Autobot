@@ -33,4 +33,4 @@ edit pk.txt, peplace with yours
 ```bash
 node index.js
 ```
-
+note : this bot will run everyday
